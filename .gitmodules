@@ -1,0 +1,18 @@
+[submodule "mips_cpu_611"]
+	path = mips_cpu_611
+	url = https://github.com/NighttimeDriver50000/mips_cpu_611.git
+[submodule "multi_mav_gcs"]
+	path = multi_mav_gcs
+	url = https://github.com/NighttimeDriver50000/multi_mav_gcs.git
+[submodule "ros-vagrant-xfce4"]
+	path = ros-vagrant-xfce4
+	url = https://github.com/NighttimeDriver50000/ros-vagrant-xfce4.git
+[submodule "old-574-potential-field"]
+	path = old-574-potential-field
+	url = https://github.com/NighttimeDriver50000/old-574-potential-field.git
+[submodule "ice"]
+	path = ice
+	url = https://github.com/NighttimeDriver50000/ice.git
+[submodule "CSCE274Project2"]
+	path = CSCE274Project2
+	url = https://github.com/NighttimeDriver50000/CSCE274Project2.git
