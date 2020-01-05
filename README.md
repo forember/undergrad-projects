@@ -55,6 +55,19 @@ be archived too once I graduate.
     
         Project 2 from the class, and actually my first-ever GitHub repo.
 
+-   CSCE 212: Intro. Computer Architecture
+
+    -   [y86compiler](https://github.com/NighttimeDriver50000/Pythonista/tree/master/y86compiler)
+
+        It isn't a compiler, but it does convert enough of GCC's output to do
+        the homework.
+
+-   MATH 142: Calculus II
+
+    -   [goblet-project](https://github.com/NighttimeDriver50000/Pythonista/tree/master/goblet-project)
+
+        Just a fun little thing I did at the end of the class.
+
 -   Stuff I Wrote In High School, Because Why Not
 
     -   [Pythonista](https://github.com/NighttimeDriver50000/Pythonista)
