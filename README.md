@@ -1,6 +1,10 @@
+## USC Undergraduate Projects
+
 This is a collection of projects from my undergraduate education at University
 of South Carolina, 2014--. All of these repos are archived, and this repo will
 be archived too once I graduate.
+
+## Projects
 
 -   CSCE 611: CPU Design
 
@@ -50,3 +54,22 @@ be archived too once I graduate.
     -   [CSCE274Project2](https://github.com/NighttimeDriver50000/CSCE274Project2)
     
         Project 2 from the class, and actually my first-ever GitHub repo.
+
+-   Stuff I Wrote In High School, Because Why Not
+
+    -   [Pythonista](https://github.com/NighttimeDriver50000/Pythonista)
+
+        Miscellaneous Python scripts I wrote on my iPhone 4 while I was supposed to
+        be taking notes.
+
+    -   [Boats](https://github.com/90301/Boats)
+
+        Naval-ish large-ish AI-ish simulation written by my friend
+        [Josh Benton](https://github.com/90301). I wrote the recording and replay
+        subsystems.
+
+    -   [old-2012-highschool-chat](https://github.com/NighttimeDriver50000/old-2012-highschool-chat)
+
+        Quite terrible chat application I wrote in 2012. This was the first real
+        program I wrote, and I was very excited about XML, but *really* didn't
+        understand how it worked. Lots of comments, at least.

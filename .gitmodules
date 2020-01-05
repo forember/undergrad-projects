@@ -16,3 +16,12 @@
 [submodule "CSCE274Project2"]
 	path = CSCE274Project2
 	url = https://github.com/NighttimeDriver50000/CSCE274Project2.git
+[submodule "Pythonista"]
+	path = Pythonista
+	url = https://github.com/NighttimeDriver50000/Pythonista.git
+[submodule "old-2012-highschool-chat"]
+	path = old-2012-highschool-chat
+	url = https://github.com/NighttimeDriver50000/old-2012-highschool-chat.git
+[submodule "Boats"]
+	path = Boats
+	url = https://github.com/90301/Boats.git
