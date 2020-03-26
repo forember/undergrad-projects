@@ -37,10 +37,11 @@ be archived too once I graduate.
 
     -   [old-574-potential-field](https://github.com/NighttimeDriver50000/old-574-potential-field)
 
-        Navigation ROS node based on potential fields. The link to read the
-        code interleaved with documentation on my site is broken, but you can
+        Navigation ROS node based on potential fields. You can [read the
+        code][pf-html] interleaved with documentation on my site, and you can
         get the [PDF output][pf-pdf] from the GitHub repo.
 
+        [pf-html]: https://www.tachibanatech.com/potential_field.html
         [pf-pdf]: https://github.com/NighttimeDriver50000/old-574-potential-field/blob/master/doc/potential_field.pdf
 
 -   CSCE 274: Intro. Robotics
