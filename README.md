@@ -78,7 +78,7 @@ be archived too once I graduate.
 
     -   [Boats](https://github.com/90301/Boats)
 
-        Naval-ish large-ish AI-ish simulation written by my friend
+        Naval-ish large-ish AI-ish simulation written by
         [Josh Benton](https://github.com/90301). I wrote the recording and replay
         subsystems.
 
