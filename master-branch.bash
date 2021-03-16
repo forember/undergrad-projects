@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 case "$(basename "$(pwd)")" in
   Boats) branch=UI1;;
   turtlebot3*) branch=kinetic-devel;;

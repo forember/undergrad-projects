@@ -1,7 +1,7 @@
-#!/bin/sh
+#!/bin/bash
 set -e
 set -x
-checkout="$(readlink -e "$(dirname "$0")/master-branch.sh")"
+checkout="$(readlink -ev "$(dirname "$0")/master-branch.bash")"
 cd "$(dirname "$0")"
 git pull
 git submodule sync --recursive
